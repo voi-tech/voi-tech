@@ -1,11 +1,10 @@
 # Hi there! 👋
 
 I'm a versatile tech enthusiast and educator based in Warsaw, Poland.
-With a native command of 🇵🇱 Polish and proficiency in 🇺🇸 English (C1), I work across a range of platforms and technologies, from macOS and Linux to Windows.
 
 Here’s a bit more about me and my work:
 
-- **🌐 Languages**: Polish (native), English (C1)
+- **🇵🇱🇺🇸 Languages**: Polish (native), English (C1)
 - **💻 Tech Stack**: macOS, Linux, Windows, Bash, PowerShell, Docker (Compose), Markdown, HTML, CSS, Lua
 - **📚 Tools & Concepts**: ObsidianMD, Second Brain, Digital Garden, Personal Knowledge Management (PKM)
 - **🌍 Localization**: Polish language translation of software applications
