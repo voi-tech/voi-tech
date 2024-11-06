@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 🧉
 
 I'm a versatile tech enthusiast and educator based in Warsaw, Poland.
 
